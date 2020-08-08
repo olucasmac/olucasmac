@@ -2,7 +2,6 @@
 
 ### TL;DR
 
- - ⚡&nbsp;&nbsp;&nbsp;@olucasmac on instagram: tips for beginners and random things
  - 📌&nbsp;&nbsp;&nbsp;Skills: Linux, Docker, Kubernetes and Lasanha.
  - 📚&nbsp;&nbsp;&nbsp;Currently learning Packer and Terraform.
  - 😄&nbsp;&nbsp;&nbsp;In my free time I usually play games w/ my daughter, watch series, and destroy Docker containers.
