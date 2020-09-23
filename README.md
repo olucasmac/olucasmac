@@ -16,8 +16,7 @@ Currently, I live in [Belo Horizonte](https://pt.wikipedia.org/wiki/Belo_Horizon
  
  ----
 
-[![Github Badge](https://img.shields.io/badge/-olucasmac-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/olucasmac)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:eu@lucasmac.com)
 [![Linkedin Badge](https://img.shields.io/badge/-olucasmac-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olucasmac/)
 [![Twitter Badge](https://img.shields.io/badge/-olucasmac-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/olucasmac)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:eu@lucasmac.com)
 [![Instagram Badge](https://img.shields.io/badge/-@olucasmac-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/olucasmac/)
