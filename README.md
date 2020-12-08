@@ -2,9 +2,7 @@
 
 ### TL;DR
 
- - 📌&nbsp;&nbsp;&nbsp;Skills: Linux, Docker, Kubernetes and Lasanha.
- - 📚&nbsp;&nbsp;&nbsp;Currently learning Packer and Terraform.
- - 😄&nbsp;&nbsp;&nbsp;In my free time I usually play games w/ my daughter, watch series, and destroy Docker containers.
+DevOps/SR Engineer at @12min, father, husband, and a very caffeine-dependent lifeform.
 
 ---
 
