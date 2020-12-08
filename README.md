@@ -2,7 +2,7 @@
 
 ### TL;DR
 
-DevOps/SR Engineer at @12min, father, husband, and a very caffeine-dependent lifeform.
+Father, husband, and a very caffeine-dependent lifeform.
 
 ---
 
