@@ -1,5 +1,3 @@
-# it’s a me, Lucas M.A.C.
-
 ### TL;DR
 
 Father, husband, and a very caffeine-dependent lifeform.
