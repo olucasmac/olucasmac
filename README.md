@@ -1,10 +1,9 @@
 ### TL;DR
 
-Father, husband, and a very caffeine-dependent lifeform.
 
----
 
-### About
+
+
 
 Born and raised in the land of Cajuína ([Teresina](https://pt.wikipedia.org/wiki/Teresina)), father, husband, and a geek since childhood. Activist, ex-president of [APISoL](https://github.com/apisol) and co-founder of [Teresina Hacker Clube](https://github.com/teresinahc).
 
