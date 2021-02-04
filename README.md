@@ -1,6 +1,6 @@
 ### TL;DR
 
-I'm born and raised in the land of Cajuína ([Teresina](https://pt.wikipedia.org/wiki/Teresina)).
+I'm born in the land of Cajuína ([Teresina](https://pt.wikipedia.org/wiki/Teresina)).
 
 Father, husband, digital rights activist, [APISoL](https://github.com/apisol) ex-president, [Teresina Hacker Clube](https://github.com/teresinahc) co-founder, and a geek since childhood.
 
