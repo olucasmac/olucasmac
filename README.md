@@ -4,15 +4,15 @@ I'm born in the land of Cajuína ([Teresina-PI](https://pt.wikipedia.org/wiki/Te
 
 ---
 <p align="left">
-  <a href="https://twitter.com/olucasmac">
+  <a href="https://twitter.com/olucasmac" target="_blank">
     <img src="https://raw.githubusercontent.com/olucasmac/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
 
-  <a href="https://www.linkedin.com/in/olucasmac/">
+  <a href="https://www.linkedin.com/in/olucasmac/" target="_blank">
     <img src="https://raw.githubusercontent.com/olucasmac/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://www.instagram.com/olucasmac/">
+  <a href="https://www.instagram.com/olucasmac/" target="_blank">
     <img src="https://raw.githubusercontent.com/olucasmac/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 </p>
