@@ -20,8 +20,4 @@ TL;DR: I'm born in the land of Cajuína ([Teresina-PI](https://pt.wikipedia.org/
   <a href="https://instagram.com/olucasmac/" target="_blank">
     <img src="https://raw.githubusercontent.com/olucasmac/ColoredBadges/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
-
-  <a href="mailto:me@lucasmac.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/olucasmac/ColoredBadges/master/svg/social/email_me.svg" alt="Mail me" style="vertical-align:top; margin:4px">
-  </a>
 </p>
