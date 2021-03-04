@@ -1,4 +1,4 @@
-<!--img src="#" align="right" -->
+<img src="me-memoji.png" align="right">
 
 ### Hi there! 👋🏼
 
