@@ -6,7 +6,6 @@ I'm Lucas M.A.C., an SRE/DevOps enthusiast, passionate about open source and sha
 
 I enjoy learning about science and electronics. In my free time, I like to tinker with 3D printing and play Bomberman® with my daughter. 😄
 
----
 ### Find me elsewhere 📢
 <p align="left">
   <a href="https://linkedin.com/in/olucasmac/" target="_blank">
