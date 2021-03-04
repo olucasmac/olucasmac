@@ -1,4 +1,4 @@
-<img src="me-memoji.png" align="right" style="max-width:200px;">
+<img src="me-memoji.png" align="right" width="250px">
 
 ### Hi there! 👋🏼
 
