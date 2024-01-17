@@ -2,6 +2,6 @@
 
 ### Hello there! 👋🏼
 
-I’m Lucas M.A.C., an SRE/DevOps enthusiast, passionate about open source and sharing knowledge. I have a strong background in Linux and system administration. I enjoy learning about science and electronics.
+My name is Lucas M.A.C., and I am an enthusiast in SRE/DevOps with a passion for open source and knowledge sharing. I possess a solid background in Linux and system administration. My interests include learning about science and electronics.
 
-In my free time, I like to tinker with hardware hacking and play videogame with my daughter.
+During my leisure time, I enjoy engaging in hardware hacking and playing video games with my daughter.
