@@ -2,8 +2,8 @@
 
 ### Hello there! 👋🏼
 
-My name is Lucas M.A.C., and I am an enthusiast in SRE/DevOps with a passion for open source and knowledge sharing. I possess a solid background in Linux and system administration. My interests include learning about science and electronics.
+I'm Lucas M.A.C., and I'm really into SRE/DevOps. I love all things open source and enjoy sharing what I know. I've got a good handle on Linux and system admin stuff. I'm also curious about science and electronics.
 
-During my leisure time, I enjoy engaging in hardware hacking and playing video games with my daughter.
+In my free time, I like to mess around with hardware hacking and play video games with my daughter.
 
 <img align="left" src="https://raw.githubusercontent.com/olucasmac/olucasmac/master/github-contribution-grid-snake.svg" alt="Commit SnakeAnimation"/>
