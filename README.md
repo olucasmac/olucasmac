@@ -6,4 +6,4 @@ I'm Lucas M.A.C., and I'm really into SRE/DevOps. I love all things open source 
 
 In my free time, I like to mess around with hardware hacking and play video games with my daughter.
 
-<img align="left" src="https://raw.githubusercontent.com/olucasmac/olucasmac/master/github-contribution-grid-snake.svg" alt="Commit SnakeAnimation"/>
+<!--img align="left" src="https://raw.githubusercontent.com/olucasmac/olucasmac/master/github-contribution-grid-snake.svg" alt="Commit SnakeAnimation"/>
